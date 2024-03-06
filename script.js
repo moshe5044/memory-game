@@ -147,7 +147,7 @@ function checkForMatch() {
 
             const textAnounce = document.createElement("div");
             textAnounce.classList.add('text');
-            textAnounce.innerText = "!!! יא מלך"
+            textAnounce.innerText = "!!! כל הכבוד"
 
             const icons = document.createElement("div");
             icons.classList.add('icons');
